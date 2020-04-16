@@ -1,0 +1,25 @@
+pages:
+  - Trang chủ: index.md
+  - Java: 
+    - Cơ bản:
+        - 1. Tổng quan: java/basic/1_gioi_thieu.md
+        - 2. Biến, kiểu dữ liệu: java/basic/2_bien_kieu_du_lieu.md
+        - 3. Câu lệnh: java/basic/3_cau_lenh.md
+        - 4. String, StringBuffer, StringBuilde: java/basic/4_String_StringBuffer_StringBuilder.md
+        - 5. Heap Space vs Stack: java/basic/5_heap_stack.md
+        - 6. Mảng (array): java/basic/6_mang_array.md
+        - 7. Annotation: java/basic/7_annotation.md
+        - 3. Tiêu chuẩn code: java/basic/3_tieu_chuan_code.md
+    - Nâng cao:
+        - 1. Marker Interface: java/advance/1_marker_interface.md
+
+# Thông tin trang web
+site_name: Learn English
+repo_name: KNOWLEDGE BASED SYSTEMS
+site_author: Toanph
+copyright: '©2017: Toanph'
+site_description: 'Contact: Email toanph1505@gmail.com;  Skype toanph1505'
+theme:
+  name: 'readthedocs'
+
+
